@@ -12,7 +12,7 @@ I am currently enhancing my skills in technologies essential for modern system a
 
 ### 🇬🇧  
 
-** 💻 Technical Knowledge:**  
+💻 Technical Knowledge:
 - Programming: Python, SQL  
 - Databases: relational (PostgreSQL, Teradata SQL, SQLite) and non-relational (Elasticsearch)  
 - Operating systems: Linux
@@ -21,17 +21,17 @@ I am currently enhancing my skills in technologies essential for modern system a
 - Microsoft Tools:Power BI, Power Automate, Power Apps  
 - Other Tools: VSC, Pycharm, IntelliJ IDEA,Profile, WinSCP, Slack, Teams, Zoom
 
-** 📊 Analysis & Design:**  
+📊 Analysis & Design:
 - Business requirement analysis and translating them into technical solutions  
 - System & process modeling (UML, BPMN 2.0)  
 - Understanding system architectures (monoliths, microservices)  
 
-** 👯 Tools & Methodologies:**  
+👯 Tools & Methodologies:
 - Jira / Confluence for task management and documentation  
 - Git / GitHub for version control  
 - Agile / Scrum / Kanban for team collaboration  
 
-** 💬 Soft Skills:**  
+💬 Soft Skills:
 - Communication with business and technical teams  
 - Critical thinking and problem solving  
 - Documentation and reporting  
@@ -40,7 +40,7 @@ I am currently enhancing my skills in technologies essential for modern system a
 
 ### 🇵🇱 
 
-** 💻 Wiedza techniczna:**  
+💻 Wiedza techniczna:
 - Programowanie: Python, SQL  
 - Bazy danych: relacyjne (PostgreSQL, Teradata SQL, SQLite) i nierelacyjne (Elasticsearch)  
 - Systemy operacyjne: Linux
@@ -49,17 +49,17 @@ I am currently enhancing my skills in technologies essential for modern system a
 - Narzędzia Microsoft:Power BI, Power Automate, Power Apps  
 - Pozostałe: VSC, Pycharm, Profile, IntelliJ IDEA, WinSCP, Slack, Teams, Zoom
 
-** 📊 Analiza i projektowanie:**  
+📊 Analiza i projektowanie:
 - Analiza wymagań biznesowych i przekładanie ich na rozwiązania techniczne  
 - Modelowanie systemów i procesów (UML, BPMN 2.0)  
 - Zrozumienie architektury systemów (monolit, mikroserwisy)  
 
-** 👯 Narzędzia i metodyki:**  
+👯 Narzędzia i metodyki:
 - Jira / Confluence (zarządzanie zadaniami, dokumentacja)  
 - Git / GitHub (kontrola wersji)  
 - Agile / Scrum / Kanban (praca zespołowa)  
 
-** 💬 Umiejętności miękkie:**  
+💬 Umiejętności miękkie:
 - Komunikacja z zespołem technicznym i biznesowym  
 - Krytyczne myślenie i rozwiązywanie problemów  
 - Dokumentowanie procesów i wyników analizy  
