@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 
-## 🌱 I’m currently learning / Obecnie uczę się:  
+## 🌱 I’m currently learning
 
-I am currently enhancing my skills in technologies essential for modern system analysis:  
+I am currently enhancing my skills in technologies:
 - **Docker** – containerization for scalable applications  
 - **Kubernetes** – orchestration of containers  
-- **Java/GO** – programming for backend and system tasks  
+- **Java** – programming for backend and system tasks  
 - **NoSQL/MongoDB** – working with non-relational data and search
 - **Apache Kafka and ActiveMQ** – real-time data streaming and messaging 
 
