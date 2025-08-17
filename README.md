@@ -19,7 +19,7 @@ I am currently enhancing my skills in technologies:
 - Project Management & Documentation: Jira, Confluence, SharePoint, UML/BPMN 2.0
 - Networking & protocols: HTTP/HTTPS, REST API, SOAP
 - Microsoft Tools:Power BI, Power Automate, Power Apps  
-- Other Tools: VSC, Pycharm, IntelliJ IDEA,Profile, WinSCP, Slack, Teams, Zoom
+- Other Tools: VSC, PyCharm, IntelliJ IDEA, Profile, WinSCP, Slack, Teams, Zoom
 
 📊 Analysis & Design:
 - Business requirement analysis and translating them into technical solutions  
@@ -47,7 +47,7 @@ I am currently enhancing my skills in technologies:
 - Zarządzanie projektami i dokumentacja: Jira, Confluence, SharePoint
 - Sieci i protokoły: HTTP/HTTPS, REST API, SOAP  
 - Narzędzia Microsoft:Power BI, Power Automate, Power Apps  
-- Pozostałe: VSC, Pycharm, Profile, IntelliJ IDEA, WinSCP, Slack, Teams, Zoom
+- Pozostałe: VSC, PyCharm, IntelliJ IDEA, Profile, WinSCP, Slack, Teams, Zoom
 
 📊 Analiza i projektowanie:
 - Analiza wymagań biznesowych i przekładanie ich na rozwiązania techniczne  
