@@ -13,13 +13,13 @@ I am currently enhancing my skills in technologies:
 ### 🇬🇧  
 
 💻 Technical Knowledge:
-- Programming: Python, SQL  
-- Databases: relational (PostgreSQL, Teradata SQL, SQLite) and non-relational (Elasticsearch)  
-- Operating systems: Linux
+- Programming: Python, SQL
+- Databases: relational (PostgreSQL, Teradata, SQLite) and non-relational (Elasticsearch)  
+- Operating systems: Linux, Windows
 - Project Management & Documentation: Jira, Confluence, SharePoint, UML/BPMN 2.0
 - Networking & protocols: HTTP/HTTPS, REST API, SOAP
-- Microsoft Tools:Power BI, Power Automate, Power Apps  
-- Other Tools: VSC, PyCharm, IntelliJ IDEA, Profile, WinSCP, Slack, Teams, Zoom
+- Microsoft Tools:Power BI, Microsoft Excel, VBA, Teams
+- Other Tools: VSC, PyCharm, IntelliJ IDEA, Snowflake, Databricks, Profile, WinSCP, Slack, Zoom
 
 📊 Analysis & Design:
 - Business requirement analysis and translating them into technical solutions  
